@@ -58,6 +58,32 @@ npm run dev
 npm run build
 </code></pre>
 
+<h3>📊 Evaluation Criteria</h3>
+
+<table>
+  <tr>
+    <td><strong>Real-time functionality</strong></td>
+    <td>30%</td>
+  </tr>
+  <tr>
+    <td><strong>Mongo + API structure</strong></td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td><strong>React structure + UX</strong></td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td><strong>Clean modular code</strong></td>
+    <td>20%</td>
+  </tr>
+  <tr>
+    <td><strong>Bonus (rich text, cursors)</strong></td>
+    <td>10%</td>
+  </tr>
+</table>
+
+
 <h2>🎯 Key Features</h2>
 <ul>
   <li><strong>Real-time Collaboration</strong> using Socket.IO</li>
