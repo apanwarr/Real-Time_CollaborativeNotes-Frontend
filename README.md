@@ -58,6 +58,13 @@ npm run dev
 npm run build
 </code></pre>
 
+<h2>🎯 Key Features</h2>
+<ul>
+  <li><strong>Real-time Collaboration</strong> using Socket.IO</li>
+  <li><strong>Auto-save</strong> via 2s debounce function</li>
+  <li><strong>Responsive UI</strong> with CSS media queries</li>
+</ul>
+
 <h3>📊 Evaluation Criteria Done</h3>
 
 <ul>
@@ -72,14 +79,17 @@ npm run build
   <li><strong>Bonus (rich text, cursors) – 10%:</strong> Integrated a rich text editor for formatting and added active user indicators with real-time cursor syncing for better collaboration.</li>
 </ul>
 
+<h2>ScreenShots</h2>
 
-
-<h2>🎯 Key Features</h2>
-<ul>
-  <li><strong>Real-time Collaboration</strong> using Socket.IO</li>
-  <li><strong>Auto-save</strong> via 2s debounce function</li>
-  <li><strong>Responsive UI</strong> with CSS media queries</li>
-</ul>
+<img width="1918" height="1016" alt="1" src="https://github.com/user-attachments/assets/a60bec00-33f1-4bc9-860c-9fba8b0df943" />
+<img width="1917" height="923" alt="2" src="https://github.com/user-attachments/assets/c053235e-ab07-4ad7-820f-58c8e43848c5" />
+<img width="1917" height="1011" alt="3" src="https://github.com/user-attachments/assets/4bc11095-7ac3-447f-8794-383c2b4c776c" />
+<img width="1918" height="1012" alt="4" src="https://github.com/user-attachments/assets/26ce1a29-3087-4143-8f5c-35b6df171562" />
+<img width="1917" height="942" alt="5" src="https://github.com/user-attachments/assets/c44b12d8-6a6e-4029-8271-7c7c215416f8" />
+<img width="1913" height="923" alt="6" src="https://github.com/user-attachments/assets/4d3fa6db-ec98-435d-ad97-723fb859b810" />
+<img width="1918" height="238" alt="7" src="https://github.com/user-attachments/assets/98581ca7-c74e-488a-92eb-cc673f7b54d2" />
+<img width="1438" height="272" alt="8" src="https://github.com/user-attachments/assets/bcaf3e0f-0984-4081-aa82-2e514ed7b5c3" />
+<img width="1918" height="1012" alt="9" src="https://github.com/user-attachments/assets/53669efb-8158-4324-ab98-4a37a7453e73" />
 
 <h2>🚀 Deployment</h2>
 <ul>
