@@ -87,7 +87,7 @@ npm run build
 <img width="1918" height="1012" alt="4" src="https://github.com/user-attachments/assets/26ce1a29-3087-4143-8f5c-35b6df171562" />
 <img width="1917" height="942" alt="5" src="https://github.com/user-attachments/assets/c44b12d8-6a6e-4029-8271-7c7c215416f8" />
 <img width="1913" height="923" alt="6" src="https://github.com/user-attachments/assets/4d3fa6db-ec98-435d-ad97-723fb859b810" />
-<img width="1918" height="238" alt="7" src="https://github.com/user-attachments/assets/98581ca7-c74e-488a-92eb-cc673f7b54d2" />
+<img width="1918" height="238" alt="7" src="https://github.com/user-attachments/assets/98581ca7-c74e-488a-92eb-cc673f7b54d2" /></br>
 <img width="1438" height="272" alt="8" src="https://github.com/user-attachments/assets/bcaf3e0f-0984-4081-aa82-2e514ed7b5c3" />
 <img width="1918" height="1012" alt="9" src="https://github.com/user-attachments/assets/53669efb-8158-4324-ab98-4a37a7453e73" />
 
