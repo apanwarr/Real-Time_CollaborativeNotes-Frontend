@@ -58,7 +58,7 @@ npm run dev
 npm run build
 </code></pre>
 
-<h3>📊 Evaluation Criteria</h3>
+<h3>📊 Evaluation Criteria Done</h3>
 
 <ul>
   <li><strong>Real-time functionality – 30%:</strong> Implemented real-time collaborative editing using <code>Socket.IO</code>, enabling live updates across users instantly.</li>
