@@ -60,28 +60,18 @@ npm run build
 
 <h3>📊 Evaluation Criteria</h3>
 
-<table>
-  <tr>
-    <td><strong>Real-time functionality</strong></td>
-    <td>30%</td>
-  </tr>
-  <tr>
-    <td><strong>Mongo + API structure</strong></td>
-    <td>20%</td>
-  </tr>
-  <tr>
-    <td><strong>React structure + UX</strong></td>
-    <td>20%</td>
-  </tr>
-  <tr>
-    <td><strong>Clean modular code</strong></td>
-    <td>20%</td>
-  </tr>
-  <tr>
-    <td><strong>Bonus (rich text, cursors)</strong></td>
-    <td>10%</td>
-  </tr>
-</table>
+<ul>
+  <li><strong>Real-time functionality – 30%:</strong> Implemented real-time collaborative editing using <code>Socket.IO</code>, enabling live updates across users instantly.</li>
+  
+  <li><strong>Mongo + API structure – 20%:</strong> Used <code>MongoDB</code> with Mongoose for efficient data modeling, and structured REST APIs using Express.js for CRUD operations on notes.</li>
+  
+  <li><strong>React structure + UX – 20%:</strong> Built with <code>React + Vite</code>, following a clean component-based architecture, with responsive design and smooth UI interactions.</li>
+  
+  <li><strong>Clean modular code – 20%:</strong> Organized frontend and backend into reusable modules and followed best practices like separation of concerns and environment configuration.</li>
+  
+  <li><strong>Bonus (rich text, cursors) – 10%:</strong> Integrated a rich text editor for formatting and added active user indicators with real-time cursor syncing for better collaboration.</li>
+</ul>
+
 
 
 <h2>🎯 Key Features</h2>
