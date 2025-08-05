@@ -2,7 +2,7 @@
 
 <h3>Frontend Link : https://real-time-collaborative-notes-frontend.vercel.app</h3>
 
-<h3>Backend Github Repository : https://github.com/apanwarr/Real-Time_CollaborativeNotes-Backend </h3>
+<h3>Backend Github Repo : https://github.com/apanwarr/Real-Time_CollaborativeNotes-Backend </h3>
 
 <h3>Backend live link : https://realtime-collaborativenotes-backend.onrender.com </h3>
 
